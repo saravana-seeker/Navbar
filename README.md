@@ -1,2 +1,2 @@
 # Navbar
-Navbar with HTML , CSS , JS
+Responsive Navbar with HTML , CSS , JS
